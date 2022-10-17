@@ -16,9 +16,9 @@ public class DatabaseConnectionManager {
     // Metoder
 
     public static Connection getConnection() {
-        hostname = "jdbc:mysql://clbodat22v1.mysql.database.azure.com/kea";
-        username = "clbo";
-        password = "qwerty_1234";
+        hostname = "jdbc:mysql://khhsql.mysql.database.azure.com/kea";
+        username = "khh";
+        password = "Hwc94dfg";
 
         try {
 
